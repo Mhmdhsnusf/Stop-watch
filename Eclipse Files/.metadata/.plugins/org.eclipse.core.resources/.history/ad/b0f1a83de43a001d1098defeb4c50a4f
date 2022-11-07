@@ -1,0 +1,18 @@
+/*
+ * test.c
+ *
+ *  Created on: Sep 23, 2022
+ *      Author: HSNUS
+ */
+#include<stdio.h>
+#define size 10(int)
+int main(void){
+	int x=size;
+	printf("%d",size);
+
+
+
+
+	return 0;
+}
+

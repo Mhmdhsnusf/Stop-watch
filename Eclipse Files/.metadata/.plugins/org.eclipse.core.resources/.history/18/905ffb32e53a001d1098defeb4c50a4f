@@ -1,0 +1,18 @@
+/*
+ * test.c
+ *
+ *  Created on: Sep 23, 2022
+ *      Author: HSNUS
+ */
+#include<stdio.h>
+#define N 2U
+int main(void){
+	int x=N;
+	printf("%d",x);
+
+
+
+
+	return 0;
+}
+
